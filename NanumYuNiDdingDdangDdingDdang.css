@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'NanumYuNiDdingDdangDdingDdang';
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+  src: url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumYuNiDdingDdangDdingDdang/NanumYuNiDdingDdangDdingDdang.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumYuNiDdingDdangDdingDdang/NanumYuNiDdingDdangDdingDdang.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumYuNiDdingDdangDdingDdang/NanumYuNiDdingDdangDdingDdang.ttf') format('truetype');
+}
